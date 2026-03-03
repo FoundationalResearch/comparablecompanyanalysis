@@ -1,9 +1,6 @@
 ---
 name: comparable-company-analysis
 description: Comparable company (comps) analysis methodology for relative valuation using trading multiples
-metadata:
-  author: scrutari
-  version: "1.0"
 ---
 
 # Comparable Company Analysis (Comps)

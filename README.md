@@ -8,6 +8,16 @@
 
 This package provides a complete, production-grade prompt that guides LLM-powered financial agents through the full comps analysis workflow, from peer selection through football field chart construction.
 
+## Install
+
+```bash
+npx skills add FoundationalResearch/skills@comparable-company-analysis
+```
+
+Works with **Claude Code, Cursor, GitHub Copilot, Codex, Gemini, Windsurf**, and [20+ other agents](https://skills.sh).
+
+> Part of the [FoundationalResearch Skills](https://github.com/FoundationalResearch/skills) collection — 14 professional financial analysis skills for AI agents.
+
 ---
 
 ## What Is This?
@@ -75,7 +85,7 @@ The skill produces a structured analysis containing:
 6. **Football Field Chart Description** -- All ranges with convergence analysis
 7. **Key Risks and Sensitivities** -- Factors that could shift the valuation
 
-## Installation
+## Also available on npm
 
 ```bash
 npm install @foundationalresearch/comparablecompanyanalysis
