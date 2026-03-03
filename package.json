@@ -1,0 +1,18 @@
+{
+  "name": "@foundationalresearch/comparablecompanyanalysis",
+  "version": "1.0.0",
+  "description": "Comparable company analysis skill — relative valuation using trading multiples and peer comparison for financial agents",
+  "keywords": ["ai-skill", "financial-analysis", "comps", "comparable-companies", "relative-valuation", "multiples", "peer-comparison", "llm", "claude", "cursor", "codex"],
+  "author": "FoundationalResearch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FoundationalResearch/comparablecompanyanalysis.git"
+  },
+  "homepage": "https://github.com/FoundationalResearch/comparablecompanyanalysis#readme",
+  "bugs": {
+    "url": "https://github.com/FoundationalResearch/comparablecompanyanalysis/issues"
+  },
+  "files": ["SKILL.md", "README.md", "LICENSE"],
+  "type": "module"
+}
